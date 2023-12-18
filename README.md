@@ -1,8 +1,8 @@
   
-  <h1 align="center"> <a href=https://francijamesmoura.github.io/easy-shopping/">Easy Shopping</a></h1>
+  <h1 align="center"> <a href=https://francijamesmoura.github.io/easy-shopping/>Easy Shopping</a></h1>
   <br>
   <br>
-  <h2 align="center"> Esse foi um dos projetos que aprendi e fiz através do <a href=https://rodolfomori.com.br/devclub">DevClub</a></h2>
+  <h2 align="center"> Esse foi um dos projetos que aprendi e fiz através do <a href=https://rodolfomori.com.br/devclub>DevClub</a></h2>
   </center>
   <br>
 <div align="center">
