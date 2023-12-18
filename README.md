@@ -12,12 +12,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 </div>
 
-  <br>
-  <p align="center">
-  <img src="https://github.com/FrancijamesMoura/easy-shopping/blob/master/img/Captura%20de%20tela%202023-12-18%20120519.png?raw=true" />
-  </p>
+<h3 align="center">Mobile:</h3>
+<p align="center">
+  <img src="https://github.com/FrancijamesMoura/easy-shopping/blob/master/img/Captura%20de%20tela%202023-12-18%20120519.png?raw=true"/>
+</p>
 
   <p align="center">
+  <h3 <p align="center">Computer:</h3>
   <img src="https://github.com/FrancijamesMoura/easy-shopping/blob/master/img/FireShot%20Capture%20001%20-%20Easy%20-%20Shopping%20branch%20ataulizacao%20-%20127.0.0.1.png?raw=true" />
+  
   </p>
 
