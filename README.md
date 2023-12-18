@@ -5,6 +5,13 @@
   <h2> Esse foi um dos projetos que aprendi e fiz através do <a href=https://rodolfomori.com.br/devclub">DevClub</a></h2>
   </center>
   <br>
+
+  <h2>Technologies Used:</h2>
+  <br>
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+
+  <br>
   <p align="center">
   <img src="https://github.com/FrancijamesMoura/easy-shopping/blob/master/img/Captura%20de%20tela%202023-12-18%20120519.png?raw=true" />
   </p>
